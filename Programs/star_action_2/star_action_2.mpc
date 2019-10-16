@@ -1,0 +1,10 @@
+r = sint.get_random_int(40)
+r = sint.get_random_int(40)
+
+a = sint(100)
+b = sint(2)
+div = a/b
+cmp = a<b
+
+cmp.reveal()
+div.reveal()

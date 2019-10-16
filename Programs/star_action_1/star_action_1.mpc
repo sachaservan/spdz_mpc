@@ -1,0 +1,7 @@
+r1 = sint.get_random_int(40)
+r2 = sint.get_random_int(40)
+
+a = r1 + r2
+b = r2 + r1
+c = a+b
+c.reveal()
